@@ -2,6 +2,8 @@
 
 FILE=~/tmp/_SUDDEN
 
+figlet KIA
+
 while true
 do 
 	if [[ -f "$FILE" ]]; then
