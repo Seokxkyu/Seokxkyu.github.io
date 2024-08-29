@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "seokxkyuseok",
+    "site": "seokxkyu",
     "public": "docs",
     "ignore": [
       "firebase.json",
